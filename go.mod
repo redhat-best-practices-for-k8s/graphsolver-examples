@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/openshift/ptp-operator v0.0.0-20220922002031-4e588c96d5d6
-	github.com/test-network-function/graphsolver-lib v0.0.0-20220923161551-922faf8697be
+	github.com/test-network-function/graphsolver-lib v0.0.2
 	github.com/test-network-function/l2discovery-lib v0.0.7
 )
 
@@ -44,7 +44,7 @@ require (
 	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/test-network-function/graphsolver-exports v0.0.0-20220909223441-46e11b864674 // indirect
+	github.com/test-network-function/graphsolver-exports v0.0.1 // indirect
 	github.com/test-network-function/l2discovery-exports v0.0.3 // indirect
 	github.com/test-network-function/privileged-daemonset v1.0.2 // indirect
 	github.com/yourbasic/graph v0.0.0-20210606180040-8ecfec1c2869 // indirect
