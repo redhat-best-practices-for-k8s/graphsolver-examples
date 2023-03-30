@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/openshift/ptp-operator v0.0.0-20220922002031-4e588c96d5d6
 	github.com/test-network-function/graphsolver-lib v0.0.2
-	github.com/test-network-function/l2discovery-lib v0.0.7
+	github.com/test-network-function/l2discovery-lib v0.0.9
 )
 
 require (
