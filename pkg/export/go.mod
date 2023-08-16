@@ -1,6 +1,6 @@
 module github.com/test-network-function/simplegraphsolver/pkg/export
 
-go 1.20
+go 1.21
 
 replace github.com/test-network-function/l2discovery/l2lib/pkg/export => ../../../l2discoverydavid/l2lib/pkg/export
 
