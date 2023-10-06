@@ -1,6 +1,6 @@
 module github.com/test-network-function/simplegraphsolver/pkg/lib
 
-go 1.21
+go 1.21.2
 
 replace github.com/test-network-function/simplegraphsolver/pkg/export => ../export
 
